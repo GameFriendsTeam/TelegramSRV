@@ -123,6 +123,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-> **Note:** Replace `yourusername` with your actual GitHub username and update the Discord invite link before publishing.
+> **Note:** Replace `KreizerStYT` with your actual GitHub username and update the Discord invite link before publishing.
 
 ---
