@@ -1,5 +1,3 @@
----
-
 # TelegramSRV
 
 **TelegramSRV** is a lightweight and powerful Minecraft plugin that fully integrates your server with Telegram. Manage your server, sync chat, and receive real-time notifications — all from your favorite messenger.
